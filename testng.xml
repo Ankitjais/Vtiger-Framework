@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+  <test name="Test">
+    <classes>
+      <class name="com.crm.MarketingandsalesTest.OrganizationTest"/>
+      <class name="com.crm.MarketingandsalesTest.LeadTest"/>
+      <class name="com.crm.MarketingandsalesTest.ContactTest"/>
+      <class name="com.crm.MarketingandsalesTest.CompaignsTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

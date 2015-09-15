@@ -1,0 +1,208 @@
+2015-04-30 19:31:16,665 [main] INFO ContactModuleTest - firefox lunched
+2015-04-30 19:31:16,776 [main] INFO ContactModuleTest - getting username and passward
+2015-05-02 20:45:20,833 [main] INFO ContactModuleTest - firefox lunched
+2015-05-02 20:45:21,318 [main] INFO ContactModuleTest - getting username and passward
+2015-05-02 20:45:24,079 [main] INFO ContactModuleTest - login successfully
+2015-05-02 20:46:01,342 [main] INFO ContactModuleTest - contact created
+2015-05-02 20:46:13,090 [main] INFO ContactModuleTest - contact verified
+2015-05-02 20:46:13,090 [main] INFO ContactModuleTest - contact verified
+2015-05-02 20:46:33,134 [main] INFO ContactModuleTest - logout successfully
+2015-05-02 20:46:33,149 [main] INFO ContactModuleTest - getting username and passward
+2015-05-02 20:46:35,678 [main] INFO ContactModuleTest - login successfully
+2015-05-02 20:47:45,451 [main] INFO ContactModuleTest - logout successfully
+2015-05-02 20:47:45,451 [main] INFO ContactModuleTest - getting username and passward
+2015-05-02 20:47:47,823 [main] INFO ContactModuleTest - login successfully
+2015-05-02 20:47:47,949 [main] INFO ContactModuleTest - data getting from excel
+2015-05-02 20:48:56,169 [main] INFO ContactModuleTest - contact deleted
+2015-05-02 20:49:08,073 [main] INFO ContactModuleTest - logout successfully
+2015-05-02 20:49:08,088 [main] INFO ContactModuleTest - getting username and passward
+2015-05-02 20:49:10,632 [main] INFO ContactModuleTest - login successfully
+2015-05-02 20:50:04,126 [main] INFO ContactModuleTest - duplicate contact created
+2015-05-02 20:50:19,695 [main] INFO ContactModuleTest - logout successfully
+2015-05-02 20:50:19,790 [main] INFO ContactModuleTest - firefox closed
+2015-05-02 20:52:53,257 [main] INFO CampaignModuleTest - firefox lunched
+2015-05-02 20:52:53,758 [main] INFO CampaignModuleTest - getting username and passward
+2015-05-02 20:52:56,098 [main] INFO CampaignModuleTest - login successfully
+2015-05-02 20:53:07,882 [main] INFO CampaignModuleTest - getting compaign test data
+2015-05-02 20:54:44,427 [main] INFO CampaignModuleTest - campaign created
+2015-05-02 20:55:08,290 [main] INFO CampaignModuleTest - logout successfully
+2015-05-02 20:55:08,290 [main] INFO CampaignModuleTest - getting username and passward
+2015-05-02 20:55:10,959 [main] INFO CampaignModuleTest - login successfully
+2015-05-02 20:55:11,210 [main] INFO CampaignModuleTest - getting compaign test data
+2015-05-02 20:57:04,169 [main] INFO CampaignModuleTest - campaign Modify
+2015-05-02 20:57:28,792 [main] INFO CampaignModuleTest - logout successfully
+2015-05-02 20:57:28,792 [main] INFO CampaignModuleTest - getting username and passward
+2015-05-02 20:57:31,211 [main] INFO CampaignModuleTest - login successfully
+2015-05-02 20:57:31,406 [main] INFO CampaignModuleTest - getting compaign test data
+2015-05-02 20:59:23,461 [main] INFO CampaignModuleTest - campaign Deleted
+2015-05-02 20:59:39,751 [main] INFO CampaignModuleTest - logout successfully
+2015-05-02 20:59:39,830 [main] INFO CampaignModuleTest - firefox closed
+2015-05-02 21:01:47,834 [main] INFO ContactModuleTest - firefox lunched
+2015-05-02 21:01:48,209 [main] INFO ContactModuleTest - getting username and passward
+2015-05-02 21:01:50,674 [main] INFO ContactModuleTest - login successfully
+2015-05-02 21:01:52,968 [main] INFO ContactModuleTest - geeting create lead data from excel
+2015-05-02 21:02:25,581 [main] INFO ContactModuleTest - lead created
+2015-05-02 21:02:25,581 [main] INFO ContactModuleTest - lead created screenshots
+2015-05-02 21:02:53,740 [main] INFO ContactModuleTest - logout successfully
+2015-05-02 21:02:53,740 [main] INFO ContactModuleTest - getting username and passward
+2015-05-02 21:02:56,221 [main] INFO ContactModuleTest - login successfully
+2015-05-02 21:02:56,487 [main] INFO ContactModuleTest - geeting create lead data from excel
+2015-05-02 21:03:41,977 [main] INFO ContactModuleTest - logout successfully
+2015-05-02 21:03:41,977 [main] INFO ContactModuleTest - getting username and passward
+2015-05-02 21:03:44,771 [main] INFO ContactModuleTest - login successfully
+2015-05-02 21:03:44,912 [main] INFO ContactModuleTest - geeting delete lead data from excel
+2015-05-02 21:04:48,093 [main] INFO ContactModuleTest - Lead Modified
+2015-05-02 21:04:48,093 [main] INFO ContactModuleTest - Delete lead screenshot
+2015-05-02 21:04:57,485 [main] INFO ContactModuleTest - logout successfully
+2015-05-02 21:04:57,485 [main] INFO ContactModuleTest - getting username and passward
+2015-05-02 21:05:00,232 [main] INFO ContactModuleTest - login successfully
+2015-05-02 21:05:00,280 [main] INFO ContactModuleTest - geeting create lead data from excel
+2015-05-02 21:05:59,625 [main] INFO ContactModuleTest - Lead Modified
+2015-05-02 21:05:59,625 [main] INFO ContactModuleTest - Modify lead screenshot
+2015-05-02 21:06:14,695 [main] INFO ContactModuleTest - logout successfully
+2015-05-02 21:06:14,805 [main] INFO ContactModuleTest - firefox closed
+2015-05-03 10:03:18,523 [main] INFO ContactModuleTest - firefox lunched
+2015-05-03 10:03:19,102 [main] INFO ContactModuleTest - getting username and passward
+2015-05-03 10:03:21,785 [main] INFO ContactModuleTest - login successfully
+2015-05-03 10:04:15,460 [main] INFO ContactModuleTest - logout successfully
+2015-05-03 10:04:15,554 [main] INFO ContactModuleTest - firefox closed
+2015-05-03 10:06:58,791 [main] INFO ContactModuleTest - firefox lunched
+2015-05-03 10:06:59,198 [main] INFO ContactModuleTest - getting username and passward
+2015-05-03 10:07:01,678 [main] INFO ContactModuleTest - login successfully
+2015-05-03 10:08:08,744 [main] INFO ContactModuleTest - logout successfully
+2015-05-03 10:08:08,838 [main] INFO ContactModuleTest - firefox closed
+2015-05-03 10:18:59,201 [main] INFO ContactModuleTest - firefox lunched
+2015-05-03 10:18:59,795 [main] INFO ContactModuleTest - getting username and passward
+2015-05-03 10:19:02,697 [main] INFO ContactModuleTest - login successfully
+2015-05-03 10:19:59,260 [main] INFO ContactModuleTest - Organization Created Successfully
+2015-05-03 10:20:41,740 [main] INFO ContactModuleTest - logout successfully
+2015-05-03 10:20:41,866 [main] INFO ContactModuleTest - firefox closed
+2015-05-03 10:33:47,982 [main] INFO ContactModuleTest - firefox lunched
+2015-05-03 10:33:48,466 [main] INFO ContactModuleTest - getting username and passward
+2015-05-03 10:33:51,009 [main] INFO ContactModuleTest - login successfully
+2015-05-03 10:35:08,302 [main] INFO ContactModuleTest - Organization Modified successfully
+2015-05-03 10:35:16,649 [main] INFO ContactModuleTest - Organization Text is verified
+2015-05-03 10:35:37,606 [main] INFO ContactModuleTest - logout successfully
+2015-05-03 10:35:37,716 [main] INFO ContactModuleTest - firefox closed
+2015-05-03 11:15:40,620 [main] INFO ContactModuleTest - firefox lunched
+2015-05-03 11:15:41,390 [main] INFO ContactModuleTest - getting username and passward
+2015-05-03 11:15:44,300 [main] INFO ContactModuleTest - login successfully
+2015-05-03 11:16:26,253 [main] INFO ContactModuleTest - logout successfully
+2015-05-03 11:16:26,382 [main] INFO ContactModuleTest - firefox closed
+2015-05-03 11:17:46,583 [main] INFO ContactModuleTest - firefox lunched
+2015-05-03 11:17:47,153 [main] INFO ContactModuleTest - getting username and passward
+2015-05-03 11:17:51,939 [main] INFO ContactModuleTest - login successfully
+2015-05-03 11:19:55,426 [main] INFO ContactModuleTest - Document Attached Successfully
+2015-05-03 11:37:59,896 [main] INFO ContactModuleTest - firefox lunched
+2015-05-03 11:38:00,443 [main] INFO ContactModuleTest - getting username and passward
+2015-05-03 11:38:04,827 [main] INFO ContactModuleTest - login successfully
+2015-05-03 11:41:36,354 [main] INFO ContactModuleTest - Document Attached Successfully
+2015-05-03 11:41:58,957 [main] INFO ContactModuleTest - logout successfully
+2015-05-03 11:41:59,052 [main] INFO ContactModuleTest - firefox closed
+2015-05-03 12:54:51,659 [main] INFO ContactModuleTest - firefox lunched
+2015-05-03 12:54:52,430 [main] INFO ContactModuleTest - getting username and passward
+2015-05-03 12:54:55,144 [main] INFO ContactModuleTest - login successfully
+2015-05-03 12:56:35,270 [main] INFO ContactModuleTest - Document Attached Successfully
+2015-05-03 12:59:10,266 [main] INFO ContactModuleTest - firefox lunched
+2015-05-03 12:59:10,876 [main] INFO ContactModuleTest - getting username and passward
+2015-05-03 12:59:13,793 [main] INFO ContactModuleTest - login successfully
+2015-05-04 21:01:23,047 [main] INFO ContactModuleTest - firefox lunched
+2015-05-04 21:01:23,594 [main] INFO ContactModuleTest - getting username and passward
+2015-05-04 21:01:29,819 [main] INFO ContactModuleTest - login successfully
+2015-05-04 21:04:04,261 [main] INFO ContactModuleTest - logout successfully
+2015-05-04 21:04:04,403 [main] INFO ContactModuleTest - firefox closed
+2015-05-04 21:06:09,526 [main] INFO ContactModuleTest - firefox lunched
+2015-05-04 21:06:10,401 [main] INFO ContactModuleTest - getting username and passward
+2015-05-04 21:06:15,068 [main] INFO ContactModuleTest - login successfully
+2015-05-04 22:23:54,770 [main] INFO ContactModuleTest - firefox lunched
+2015-05-04 22:23:55,572 [main] INFO ContactModuleTest - getting username and passward
+2015-05-04 22:23:58,623 [main] INFO ContactModuleTest - login successfully
+2015-05-04 22:26:51,714 [main] INFO ContactModuleTest - firefox lunched
+2015-05-04 22:26:52,311 [main] INFO ContactModuleTest - getting username and passward
+2015-05-04 22:26:55,589 [main] INFO ContactModuleTest - login successfully
+2015-05-04 22:29:00,170 [main] INFO ContactModuleTest - Document Attached Successfully
+2015-05-08 11:22:12,530 [main] INFO ContactModuleTest - firefox lunched
+2015-05-08 11:22:13,643 [main] INFO ContactModuleTest - getting username and passward
+2015-05-08 11:22:19,634 [main] INFO ContactModuleTest - login successfully
+2015-05-08 11:25:23,935 [main] INFO ContactModuleTest - firefox lunched
+2015-05-08 11:25:25,450 [main] INFO ContactModuleTest - getting username and passward
+2015-05-08 11:25:31,198 [main] INFO ContactModuleTest - login successfully
+2015-05-08 11:27:00,755 [main] INFO ContactModuleTest - logout successfully
+2015-05-08 11:27:00,771 [main] INFO ContactModuleTest - getting username and passward
+2015-05-08 11:27:05,207 [main] INFO ContactModuleTest - login successfully
+2015-05-08 11:28:09,667 [main] INFO ContactModuleTest - logout successfully
+2015-05-08 11:28:09,667 [main] INFO ContactModuleTest - getting username and passward
+2015-05-08 11:28:12,648 [main] INFO ContactModuleTest - login successfully
+2015-05-08 11:29:12,038 [main] INFO ContactModuleTest - logout successfully
+2015-05-08 11:29:12,277 [main] INFO ContactModuleTest - firefox closed
+2015-05-16 19:22:59,538 [main] INFO ContactModuleTest - firefox lunched
+2015-05-16 19:23:00,054 [main] INFO ContactModuleTest - getting username and passward
+2015-05-16 19:23:03,158 [main] INFO ContactModuleTest - login successfully
+2015-05-16 19:24:39,848 [main] INFO ContactModuleTest - logout successfully
+2015-05-16 19:25:34,469 [main] INFO ContactModuleTest - firefox lunched
+2015-05-16 19:25:34,938 [main] INFO ContactModuleTest - getting username and passward
+2015-05-16 19:25:38,448 [main] INFO ContactModuleTest - login successfully
+2015-05-16 19:25:38,839 [main] INFO ContactModuleTest - geeting create lead data from excel
+2015-05-16 19:26:17,559 [main] INFO ContactModuleTest - lead created
+2015-05-16 19:26:17,559 [main] INFO ContactModuleTest - lead created screenshots
+2015-05-16 19:26:41,318 [main] INFO ContactModuleTest - logout successfully
+2015-05-16 19:27:28,150 [main] INFO ContactModuleTest - firefox lunched
+2015-05-16 19:27:30,694 [main] INFO ContactModuleTest - getting username and passward
+2015-05-16 19:27:37,231 [main] INFO ContactModuleTest - login successfully
+2015-05-16 19:28:20,655 [main] INFO ContactModuleTest - contact created
+2015-05-16 19:28:34,556 [main] INFO ContactModuleTest - contact verified
+2015-05-16 19:28:34,556 [main] INFO ContactModuleTest - contact verified
+2015-05-16 19:28:51,405 [main] INFO ContactModuleTest - logout successfully
+2015-05-16 19:29:33,524 [main] INFO CampaignModuleTest - firefox lunched
+2015-05-16 19:29:33,962 [main] INFO CampaignModuleTest - getting username and passward
+2015-05-16 19:29:36,598 [main] INFO CampaignModuleTest - login successfully
+2015-05-16 19:29:45,866 [main] INFO CampaignModuleTest - getting compaign test data
+2015-05-16 19:31:19,541 [main] INFO CampaignModuleTest - campaign created
+2015-05-16 19:31:44,689 [main] INFO CampaignModuleTest - logout successfully
+2015-05-16 19:31:44,689 [main] INFO ContactModuleTest - getting username and passward
+2015-05-16 19:31:45,065 [main] INFO ContactModuleTest - getting username and passward
+2015-05-16 19:31:46,172 [main] INFO ContactModuleTest - getting username and passward
+2015-05-16 19:31:47,218 [main] INFO CampaignModuleTest - getting username and passward
+2015-05-16 19:31:50,304 [main] INFO CampaignModuleTest - login successfully
+2015-05-16 19:31:50,779 [main] INFO CampaignModuleTest - getting compaign test data
+2015-05-16 19:33:48,653 [main] INFO CampaignModuleTest - campaign Modify
+2015-05-16 19:34:14,181 [main] INFO CampaignModuleTest - logout successfully
+2015-05-16 19:34:14,196 [main] INFO CampaignModuleTest - getting username and passward
+2015-05-16 19:34:16,646 [main] INFO CampaignModuleTest - login successfully
+2015-05-16 19:34:16,988 [main] INFO CampaignModuleTest - getting compaign test data
+2015-05-16 19:36:09,527 [main] INFO CampaignModuleTest - campaign Deleted
+2015-05-16 19:36:25,839 [main] INFO CampaignModuleTest - logout successfully
+2015-05-16 19:36:25,965 [main] INFO CampaignModuleTest - firefox closed
+2015-05-16 19:38:20,478 [main] INFO ContactModuleTest - firefox lunched
+2015-05-16 19:38:21,084 [main] INFO ContactModuleTest - getting username and passward
+2015-05-16 19:38:23,658 [main] INFO ContactModuleTest - login successfully
+2015-05-16 19:39:49,684 [main] INFO ContactModuleTest - logout successfully
+2015-05-16 19:39:49,700 [main] INFO ContactModuleTest - getting username and passward
+2015-05-16 19:39:52,399 [main] INFO ContactModuleTest - login successfully
+2015-05-16 19:41:07,047 [main] INFO ContactModuleTest - logout successfully
+2015-05-16 19:41:07,047 [main] INFO ContactModuleTest - getting username and passward
+2015-05-16 19:41:09,668 [main] INFO ContactModuleTest - login successfully
+2015-05-16 19:42:24,258 [main] INFO ContactModuleTest - logout successfully
+2015-05-16 19:42:24,352 [main] INFO ContactModuleTest - firefox closed
+2015-05-16 19:47:09,900 [main] INFO ContactModuleTest - firefox lunched
+2015-05-16 19:47:10,322 [main] INFO ContactModuleTest - getting username and passward
+2015-05-16 19:47:12,662 [main] INFO ContactModuleTest - login successfully
+2015-05-16 19:48:31,740 [main] INFO ContactModuleTest - logout successfully
+2015-05-16 19:48:31,835 [main] INFO ContactModuleTest - firefox closed
+2015-05-16 19:50:22,321 [main] INFO ContactModuleTest - firefox lunched
+2015-05-16 19:50:22,712 [main] INFO ContactModuleTest - getting username and passward
+2015-05-16 19:50:25,115 [main] INFO ContactModuleTest - login successfully
+2015-05-16 19:57:32,002 [main] INFO ContactModuleTest - firefox lunched
+2015-05-16 19:57:32,721 [main] INFO ContactModuleTest - getting username and passward
+2015-05-16 19:57:35,638 [main] INFO ContactModuleTest - login successfully
+2015-05-16 19:59:10,970 [main] INFO ContactModuleTest - logout successfully
+2015-05-16 19:59:11,065 [main] INFO ContactModuleTest - firefox closed
+2015-05-16 20:01:27,336 [main] INFO ContactModuleTest - firefox lunched
+2015-05-16 20:01:27,758 [main] INFO ContactModuleTest - getting username and passward
+2015-05-16 20:01:30,160 [main] INFO ContactModuleTest - login successfully
+2015-05-16 20:09:04,386 [main] INFO ContactModuleTest - firefox lunched
+2015-05-16 20:09:04,855 [main] INFO ContactModuleTest - getting username and passward
+2015-05-16 20:09:08,724 [main] INFO ContactModuleTest - login successfully
+2015-05-16 20:16:01,157 [main] INFO ContactModuleTest - firefox lunched
+2015-05-16 20:16:01,860 [main] INFO ContactModuleTest - getting username and passward
+2015-05-16 20:16:04,964 [main] INFO ContactModuleTest - login successfully

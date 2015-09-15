@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="com.crm.MarketingandsalesTest.OrganizationTest">
+        <methods>
+          <include name="logout"/>
+          <include name="AddOrganizationDocumentTest"/>
+          <include name="CreateOrganizationTest"/>
+          <include name="Login"/>
+          <include name="ModifyOrganizationTest"/>
+          <include name="cofigBfrClass"/>
+        </methods>
+      </class> <!-- com.crm.MarketingandsalesTest.OrganizationTest -->
+      <class name="com.crm.MarketingandsalesTest.CompaignsTest">
+        <methods>
+          <include name="Login"/>
+          <include name="cofig"/>
+          <include name="Config"/>
+          <include name="logout"/>
+        </methods>
+      </class> <!-- com.crm.MarketingandsalesTest.CompaignsTest -->
+      <class name="com.crm.MarketingandsalesTest.ContactTest">
+        <methods>
+          <include name="ModifyContactTest"/>
+          <include name="logout"/>
+          <include name="DeleteContact"/>
+          <include name="DuplicateContact"/>
+          <include name="Login"/>
+          <include name="cofigBfrClass"/>
+        </methods>
+      </class> <!-- com.crm.MarketingandsalesTest.ContactTest -->
+      <class name="com.crm.MarketingandsalesTest.LeadTest">
+        <methods>
+          <include name="DuplicateLead"/>
+          <include name="logout"/>
+          <include name="ModifyLead"/>
+          <include name="Login"/>
+          <include name="DeleteLead"/>
+          <include name="cofig"/>
+        </methods>
+      </class> <!-- com.crm.MarketingandsalesTest.LeadTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
